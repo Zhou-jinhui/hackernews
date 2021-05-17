@@ -1,0 +1,2 @@
+(this.webpackJsonphackernews=this.webpackJsonphackernews||[]).push([[0],{12:function(e,n,t){},13:function(e,n,t){},15:function(e,n,t){"use strict";t.r(n);var c=t(1),s=t(3),o=t.n(s),r=(t(12),t(4)),i=t(5),a=t(7),h=t(6),l=(t(13),t(0));c.Component;setInterval((function(){var e=Object(l.jsxs)("div",{class:"App",children:[Object(l.jsx)("h1",{children:"Hello, world!"}),Object(l.jsxs)("h2",{children:["It is ",(new Date).toLocaleTimeString()]})]});o.a.render(e,document.getElementById("root"))}),1e3)}},[[15,1,2]]]);
+//# sourceMappingURL=main.16ff9add.chunk.js.map
